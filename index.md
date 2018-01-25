@@ -1,9 +1,5 @@
 ## Welcome to GitHub Pages
 
-theme: jekyll-theme-cayman
-title: Welcome to TaiMaiShuze's Homepage
-description: Feel free to bookmark this to keep an eye on my project updates.
-
 You can use the [editor on GitHub](https://github.com/taimaishuze/newshuzewebsite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
